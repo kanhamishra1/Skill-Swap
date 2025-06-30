@@ -7,5 +7,7 @@ db.sqlite3
 *.pyo
 media/
 staticfiles/
+skillswap_backend/settings.py
+
 # Created by venv; see https://docs.python.org/3/library/venv.html
 
